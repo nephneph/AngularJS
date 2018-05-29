@@ -1,3 +1,7 @@
+AnglarJSの勉強に使いました
+
+以下の動画を参考にしました。https://www.udemy.com/angular-ja/
+
 # AngularChat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
